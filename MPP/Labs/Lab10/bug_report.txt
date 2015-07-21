@@ -1,0 +1,22 @@
+Tom Jones
+	reportedBy: Corazza
+	classname: lesson10.labs.prob2.javapackage.Circle
+	description: computePerimeter incorrect
+	severity: 0
+
+	reportedBy: Corazza
+	classname: lesson10.labs.prob2.javapackage.ClosedCurve
+	description: 
+	severity: 1
+
+Joe Smith
+	reportedBy: Corazza
+	classname: lesson10.labs.prob2.javapackage.DataMiner
+	description: Should use Logger
+	severity: 1
+
+	reportedBy: Corazza
+	classname: lesson10.labs.prob2.javapackage.Rectangle
+	description: computePerimeter incorrect
+	severity: 2
+
